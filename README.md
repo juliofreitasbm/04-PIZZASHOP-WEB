@@ -32,6 +32,15 @@ ___
 + `npm i styled-componentes`: Biblioteca que permite trabalhar com estilos usando componentes.
 + `npm i @types/styled-components -D`: Tipagem da biblioteca styled-components.
 
+### Aula "Instalando shadcn/ui"
+
++ [Shadcn/ui](https://ui.shadcn.com/): Biblioteca de componentes pré estilizados baseada em tailwind css.
++ `npm install -D tailwindcss postcss autoprefixer`: Instalação do tailwind autoprefixer.
++ `npx tailwindcss init -p`: Executa o tailwind.
++ `npm i -D @types/node`: Atualiza o vite para suportar as importações.
++ `npx shadcn@latest init`: Inicializar o shadcn.
++ `npx shadcn@latest add button`: Instalação do Button (Instalação dos demais componentes estão na documentação).
+
 
 ## Autoria e Créditos:
 
