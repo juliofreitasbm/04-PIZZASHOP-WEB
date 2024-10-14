@@ -74,6 +74,7 @@ ___
 ### Aula "Configurando ESLint e Prettier"
 
 + `npm install -D eslint-plugin-simple-import-sort`: Plugin que ordena as importações do projeto.
++ `"react/self-closing-comp": "off"`: Adicionar regra no `.eslintrc.json`.
 
 ### Aula "React Router DOM"
 
