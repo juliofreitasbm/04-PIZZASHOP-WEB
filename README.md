@@ -73,7 +73,6 @@ ___
 
 ### Aula "Configurando ESLint e Prettier"
 
-+ `npm install -D prettier-plugin-tailwindcss`: Plugin que ajuda a escrever o css com Tailwind ordenando as classes no classname.
 + `npm install -D eslint-plugin-simple-import-sort`: Plugin que ordena as importações do projeto.
 
 ### Aula "React Router DOM"
@@ -86,6 +85,15 @@ ___
 
 + `npm i react-helmet-async`: Instalação do React Helmet Async.
   > **_OBS:_** Aqui você pode encontrar a documentação do [React Helmet Async](https://github.com/staylor/react-helmet-async/blob/main/LICENSE)
+
+### Aula "Usando React Hook Form"
+
++ `npm i react-hook-form zod @hookform/resolvers`: Instalando o React Hook Form e o zod.
+
+### Aula "Notificações toast (sonner)"
+
++ ``: Biblioteca para notificações toast.
+
 
 ## Autoria e Créditos:
 
