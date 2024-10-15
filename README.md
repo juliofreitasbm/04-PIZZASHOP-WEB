@@ -93,7 +93,7 @@ ___
 
 ### Aula "Notificações toast (sonner)"
 
-+ ``: Biblioteca para notificações toast.
++ `npm i sonner`: Biblioteca para notificações toast.
 
 
 ## Autoria e Créditos:
