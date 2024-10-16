@@ -100,6 +100,25 @@ ___
 + `npm i recharts`: Biblioteca para gráficos.
   > **_OBS:_** Aqui você pode encontrar a documentação do [Recharts](https://recharts.org/en-US/examples)
 
+### Aula "Rodando API localmente"
+
++ `sudo apt install unzip`: Package necessário para instalar o bun.
++ `curl -fsSL https://bun.sh/install | bash`: Comando para instalação do Bun. Semelhante ao Node, mas baseado no motor de busca do Safari ao invés do Chrome.
+  > **_OBS1:_** Aqui você pode encontrar a documentação do [Bun](https://bun.sh/docs/installation)
+  > **_OBS2:_** Aqui você pode encontrar no GitHub da RocketSeat o [Projeto da API Pizzashop](https://github.com/rocketseat-education/pizzashop-api)
+
++ `sudo systemctl start docker`: Starta o docker na máquina.
++ `docker compose up -d`: Se tiver um arquivo `docker-compose.yml` no projeto, ele inicia o container docker. 
++ `bun i`: Instala o bun no projeto.
++ `bun migrate`: Roda as migrates criando o banco de dados.
++ `bun seed`: Preenche o banco de dados com informações.
++ `bun dev`: Abre o projeto.
+
+### Aula "Configurando API client"
+
++ `npm i axios`: Instala o axios para fazer requisições
++ `npm i @tanstack/react-query`: Instala o react-query para lidar com as requisições.
+
 
 ## Autoria e Créditos:
 
