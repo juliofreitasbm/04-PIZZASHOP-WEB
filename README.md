@@ -95,6 +95,11 @@ ___
 
 + `npm i sonner`: Biblioteca para notificações toast.
 
+### Aula "Gráfico de receita no período"
+
++ `npm i recharts`: Biblioteca para gráficos.
+  > **_OBS:_** Aqui você pode encontrar a documentação do [Recharts](https://recharts.org/en-US/examples)
+
 
 ## Autoria e Créditos:
 
