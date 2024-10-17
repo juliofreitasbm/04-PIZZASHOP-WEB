@@ -126,6 +126,10 @@ ___
 + `HTTP state`: Estado dos dados que são retornados pelas requisições HTTP.
 
 
+### Aula "Listagem de pedidos"
+
++ `npm i date-fns`: Biblioteca para lidar com datas e horários.
+
 ## Autoria e Créditos:
 
 + Documentação criada com carinho e dedicação por [Júlio César Freitas](https://github.com/juliofreitasbm) a serviço do [CREA-GO](https://www.creago.org.br/).
