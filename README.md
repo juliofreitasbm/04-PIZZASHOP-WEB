@@ -119,6 +119,12 @@ ___
 + `npm i axios`: Instala o axios para fazer requisições
 + `npm i @tanstack/react-query`: Instala o react-query para lidar com as requisições.
 
+### Aula "Atualizando HTTP state"
+
++ `Local state`: Estados que colocamos dentro de componentes (usando useState, por exemplo).
++ `Global state`: Quando utilizamos bibliotecas como Zustand, Redux ou Jotai para criar estados globais que são acessados por vários componentes dentro da aplicação. 
++ `HTTP state`: Estado dos dados que são retornados pelas requisições HTTP.
+
 
 ## Autoria e Créditos:
 
