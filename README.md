@@ -131,6 +131,14 @@ ___
 
 + `npm i date-fns`: Biblioteca para lidar com datas e horários.
 
+
+### Aula "Receita no período"
+
++ `npm install react-day-picker@8.10.1 date-fns@3.0.0 @radix-ui/react-slot`: Corrigindo a versão das bibliotecas react-day-picker e date-fns.
+  > **_OBS1:_** Provavelmente será necessário excluir as linhas do `package.json` com essas bibliotecas e excluir a pasta `node_modules` antes de rodar o comando acima.
+  > **_OBS2:_** Após o comando rode `npm i` para gerar a pasta node_modules novamente.
+
+
 ## Autoria e Créditos:
 
 + Documentação criada com carinho e dedicação por [Júlio César Freitas](https://github.com/juliofreitasbm) a serviço do [CREA-GO](https://www.creago.org.br/).
