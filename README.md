@@ -108,7 +108,8 @@ ___
   > **_OBS2:_** Aqui você pode encontrar no GitHub da RocketSeat o [Projeto da API Pizzashop](https://github.com/rocketseat-education/pizzashop-api)
 
 + `sudo systemctl start docker`: Starta o docker na máquina.
-+ `docker compose up -d`: Se tiver um arquivo `docker-compose.yml` no projeto, ele inicia o container docker. 
++ `sudo docker compose up -d`: Se tiver um arquivo `docker-compose.yml` no projeto, ele inicia o container docker.
++ `sudo docker ps`: Verificar se o container está rodando.
 + `bun i`: Instala o bun no projeto.
 + `bun migrate`: Roda as migrates criando o banco de dados.
 + `bun seed`: Preenche o banco de dados com informações.
