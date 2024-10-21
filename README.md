@@ -138,6 +138,18 @@ ___
   > **_OBS1:_** Provavelmente será necessário excluir as linhas do `package.json` com essas bibliotecas e excluir a pasta `node_modules` antes de rodar o comando acima.
   > **_OBS2:_** Após o comando rode `npm i` para gerar a pasta node_modules novamente.
 
+### Aula "Setup do ambiente de testes"
+
++ `npm install -D vitest`: Instala a biblioteca de testes Vitest.
+  > **_OBS:_** Aqui você pode encontrar a documentação do [Vitest](https://vitest.dev/guide/)
+
++ `npm i @testing-library/react -D`: Instala a biblioteca de testes Testing Librady, que permite escrever testes para elementos da DOM que são mais legíveis.
+  > **_OBS:_** Aqui você pode encontrar a documentação da [Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
++ `npm i -D @testing-library/jest-dom`: Instala o pacote para testes Jest-DOM. Testes e métodos específicos para DOM.
+
++ `npm i -D happy-dom`: Instala a biblioteca de testes Happy DOM, que simula uma DOM utilizando javascript.
+  > **_OBS:_** Aqui você pode encontrar a documentação do [Happy Dom](https://github.com/capricorn86/happy-dom)
 
 ## Autoria e Créditos:
 
