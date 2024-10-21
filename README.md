@@ -151,6 +151,11 @@ ___
 + `npm i -D happy-dom`: Instala a biblioteca de testes Happy DOM, que simula uma DOM utilizando javascript.
   > **_OBS:_** Aqui você pode encontrar a documentação do [Happy Dom](https://github.com/capricorn86/happy-dom)
 
+### Aula "Teste unitário: Order Status"
+
++ Configuração dos testes: Seguir o tópico no [StackOverflow](https://stackoverflow.com/questions/57861187/property-tobeinthedocument-does-not-exist-on-type-matchersany).
+
+
 ## Autoria e Créditos:
 
 + Documentação criada com carinho e dedicação por [Júlio César Freitas](https://github.com/juliofreitasbm) a serviço do [CREA-GO](https://www.creago.org.br/).
